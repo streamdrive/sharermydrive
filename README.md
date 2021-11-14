@@ -1,5 +1,5 @@
 ![Screenshoot](https://raw.githubusercontent.com/Akouji/YamiDrive-Google-Drive-Sharer/main/screenshot/dashboard.PNG)
-# :sparkles: **YamiDrive Project** :sparkles:
+# :sparkles: **sharermydrive Project** :sparkles:
 YamiDrive is a Google Drive Sharer service which allows all users to share files with anyone.
 
 Features :
