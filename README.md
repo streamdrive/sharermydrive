@@ -35,10 +35,9 @@ Made by dreakersite with the name NeoDrive and then it was customized again by m
 <p align="center">Tools for optimizing your web projects.</p>
 
 <p align="center">
-  <a href="https://statically.io">statically.io</a> |
-  <a href="https://twitter.com/staticallyio">Twitter</a> |
-  <a href="https://statically.discourse.group">Community</a> |
-  <a href="https://statically.io/sponsors/">Sponsors</a>
+  <a href="#">SharerMydrive</a> |
+  <a href="#">Twitter</a> |
+  <a href="#">Sponsors</a>
   <br /><br />
 	<a href="https://twitter.com/staticallyio">
     <img src="https://img.shields.io/twitter/follow/staticallyio?label=Follow&style=social" alt="Twitter" />
