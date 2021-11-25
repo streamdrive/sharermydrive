@@ -53,5 +53,3 @@ Made by dreakersite with the name NeoDrive and then it was customized again by m
     <img src="https://img.shields.io/badge/donate-Patreon-ff69b4" alt="Donate" />
   </a>
 </p>
-
-## :sparkles: Overview
