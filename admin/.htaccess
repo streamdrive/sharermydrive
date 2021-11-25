@@ -1,0 +1,10 @@
+RewriteEngine On
+
+##Page Admin
+RewriteRule ^$ remote-files.php [L]
+RewriteRule ^remote-files$ remote-files.php [L]
+RewriteRule ^lastdls$ last-dls.php [L]
+RewriteRule ^last-registered$ last-user-registered.php [L]
+RewriteRule ^most-downloads$ most-downloads.php [L]
+RewriteRule ^top-users$ top-users.php [L]
+RewriteRule ^mirror-settings$ mirror-settings.php [L]
