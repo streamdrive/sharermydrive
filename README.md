@@ -26,11 +26,11 @@ Made by dreakersite with the name NeoDrive and then it was customized again by m
 
 <p align="center">
   <a href="https://statically.io/screenshot/">
-    <img src="https://cdn.statically.io/img/statically.io/images/branding/statically-mark.svg" alt="Screenshot" height="80"/>
+    <img src="https://raw.githubusercontent.com/streamdrive/sharermydrive/main/assets/img/favicon.ico" alt="Screenshot" height="80"/>
   </a>
 </p>
 
-<h1 align="center">Statically</h1>
+<h1 align="center">SharerMydrive</h1>
 
 <p align="center">Tools for optimizing your web projects.</p>
 
