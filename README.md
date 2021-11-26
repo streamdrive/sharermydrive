@@ -25,7 +25,7 @@ This website is created to make it easier to share files by following the applic
 Made by dreakersite with the name NeoDrive and then it was customized again by me.
 
 <p align="center">
-  <a href="https://statically.io/screenshot/">
+  <a href="screenshot">
     <img src="https://raw.githubusercontent.com/streamdrive/sharermydrive/main/assets/img/favicon.ico" alt="Screenshot" height="80"/>
   </a>
 </p>
@@ -39,16 +39,16 @@ Made by dreakersite with the name NeoDrive and then it was customized again by m
   <a href="#">Twitter</a> |
   <a href="#">Sponsors</a>
   <br /><br />
-	<a href="https://twitter.com/staticallyio">
+	<a href="#">
     <img src="https://img.shields.io/twitter/follow/staticallyio?label=Follow&style=social" alt="Twitter" />
   </a>
-  <a href="https://statically.io">
+  <a href="#">
     <img src="https://img.shields.io/badge/users-10K%2B-success" alt="Users" />
   </a>
   <a href="https://statically.discourse.group">
     <img src="https://img.shields.io/discourse/status?server=https%3A%2F%2Fstatically.discourse.group" alt="Community" />
   </a>
-  <a href="https://www.patreon.com/fransallen">
+  <a href="#">
     <img src="https://img.shields.io/badge/donate-Patreon-ff69b4" alt="Donate" />
   </a>
 </p>
